@@ -1,5 +1,5 @@
 # Coso.exe's PC Engine Collection
-Modified version of the PSP game "PC Engine Best Collection - Soldier Collection" with games from my PCE Roms collection
+A modified version of the PSP game "PC Engine Best Collection - Soldier Collection" that i made with games from my PCE Roms collection
 
 # YOU NEED A PSP WITH CFW TO INSTALL
 
