@@ -5,3 +5,6 @@ A modified version of the PSP game "PC Engine Best Collection - Soldier Collecti
 
 # How to install
 Is very simple to install, you just need to move the .cso file into the ISO folder on your memory stick (create the folder if you don't have it)
+
+
+# (This is a modified/hacked version of PC Engine Best Collection - Soldier Collection for PSP and is not affiliated with Hudson soft)
