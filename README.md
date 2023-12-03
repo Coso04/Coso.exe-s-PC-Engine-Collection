@@ -11,7 +11,8 @@ How to install
 3) Navigate to the memory stick on your PC and open up the ISO folder (create the folder if you don't have it)
 4) Move the .cso file into the ISO folder and unplug your PSP from the PC
 
-Finally go to Game >> Memory Stick. If everything goes well you should see the game into the memory stick
+Finally go to Game >> Memory Stick. If everything goes well you should see the game into the memory stick.
+
 If the game doesn't show up probably you put the file into the wrong folder or your PSP doesn't have CFW installed (or your PSP have a temporary CFW)
 
 Note: is highly recommended to not go into the video gallery in game since every movie has been deleted from the game files
