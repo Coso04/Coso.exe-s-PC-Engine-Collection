@@ -3,7 +3,6 @@ A modified version of the PSP game "PC Engine Best Collection - Soldier Collecti
 
 # (YOU NEED A PSP WITH CFW TO INSTALL)
 ---------------------------------------
-
 How to install
 ---------------
 
